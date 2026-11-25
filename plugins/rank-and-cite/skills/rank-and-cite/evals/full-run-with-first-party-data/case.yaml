@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: full-run-with-first-party-data
+expected_outcome: |
+  A complete package: article.md with frontmatter, article.jsonld, a ledger with first-party statistics computed in code from trials.csv, sources, an audit that passes all hard checks, and a post-publish plan. The article opens with a direct answer, cites every figure, reads in the dry voice of the samples, and contains no invented facts or em dashes.
+context:
+  scaffold_script: place-files.sh

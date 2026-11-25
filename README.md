@@ -8,6 +8,7 @@ Agent skills for go-to-market work: audit the stack, fix the positioning, grade 
 | [fix-my-positioning](plugins/fix-my-positioning) | Grades B2B positioning on five frameworks (0-10), critiques the homepage hero, writes three rewrites | `/fix-my-positioning <url>` |
 | [saas-grader](plugins/saas-grader) | Scores a SaaS site against 47 rules from peer-reviewed marketing research, each one cited | `/saas-grader:saas <url>` |
 | [rand-brief](plugins/rand-brief) | Reads a brand the way Paul Rand would and writes a one-page brief: one idea, one mark, one palette | `/rand-brief <url>` |
+| [rank-and-cite](plugins/rank-and-cite) | Writes one long-form SEO/AEO article in your voice with your first-party data; kills the run if nobody searches or there's nothing new to say | `/rank-and-cite:rank-and-cite <keyword>` |
 | [build-in-public](plugins/build-in-public) | Turns your Claude Code sessions and commits into reviewed X and LinkedIn drafts; never auto-posts | `/build-in-public:draft` |
 
 ## Install

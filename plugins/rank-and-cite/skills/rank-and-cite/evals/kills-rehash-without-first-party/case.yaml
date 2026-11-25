@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: kills-rehash-without-first-party
+expected_outcome: |
+  Demand passes (the keyword is searched). The run reads the SERP and maps consensus vs gaps, then reaches the information-gain gate: the user has no first-party material and declined a test, and public primary sources can't supply net-new material, so the run stops and explains that the article would be a rehash of the top results. No full article is written.

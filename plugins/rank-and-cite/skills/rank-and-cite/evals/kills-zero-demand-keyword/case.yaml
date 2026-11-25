@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: kills-zero-demand-keyword
+expected_outcome: |
+  The run checks demand for the nonsense keyword with one cheap lookup (volume plus autocomplete / PAA / forum evidence), finds nobody searches it, and stops at the demand gate with the evidence, offering real related keywords if any exist. No top-10 pages are fetched and no article is drafted.
