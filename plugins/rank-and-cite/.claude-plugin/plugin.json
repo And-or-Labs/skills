@@ -1,6 +1,6 @@
 {
   "name": "rank-and-cite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Guided SEO and AEO long-form workflow with kill gates: checks real search demand, researches the top 10, maps consensus vs gaps, injects your first-party data for information gain, writes in your own voice, runs a humanizer pass, audits E-E-A-T, sourcing, structure and JSON-LD, and hands over Markdown, JSON-LD, a CMS draft and a post-publish plan.",
   "author": {
     "name": "And/or Labs",
