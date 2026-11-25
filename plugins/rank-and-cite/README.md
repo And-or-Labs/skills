@@ -50,12 +50,12 @@ Or just ask: "write an SEO article for 'saas free trial length' using our trial 
 ## Install
 
 ```
-/plugin marketplace add eclecticv/skills
+/plugin marketplace add And-or-Labs/skills
 /plugin install rank-and-cite@andorlabs
 ```
 
 ```bash
-npx skills add eclecticv/skills --skill rank-and-cite
+npx skills add And-or-Labs/skills --skill rank-and-cite
 ```
 
 ## License

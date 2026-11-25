@@ -6,7 +6,7 @@
     "name": "Vishveshwar Jatain"
   },
   "license": "MIT",
-  "homepage": "https://github.com/eclecticv/skills/tree/main/plugins/build-in-public",
+  "homepage": "https://github.com/And-or-Labs/skills/tree/main/plugins/build-in-public",
   "keywords": [
     "build-in-public",
     "social",
@@ -16,5 +16,5 @@
     "content",
     "devrel"
   ],
-  "repository": "https://github.com/eclecticv/skills"
+  "repository": "https://github.com/And-or-Labs/skills"
 }

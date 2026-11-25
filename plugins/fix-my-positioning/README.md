@@ -70,7 +70,7 @@ A single command produces a structured markdown report with:
 
 ```bash
 # In Claude Code:
-/plugin marketplace add eclecticv/skills
+/plugin marketplace add And-or-Labs/skills
 /plugin install fix-my-positioning@andorlabs
 ```
 

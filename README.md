@@ -16,7 +16,7 @@ Agent skills for go-to-market work: audit the stack, fix the positioning, grade 
 **Claude Code**, all skills from one marketplace:
 
 ```
-/plugin marketplace add eclecticv/skills
+/plugin marketplace add And-or-Labs/skills
 /plugin install stack-maximizer@andorlabs
 ```
 
@@ -25,8 +25,8 @@ Swap in any skill name from the table.
 **Any agent** (Codex, Cursor, Gemini CLI and others) via [skills.sh](https://skills.sh):
 
 ```bash
-npx skills add eclecticv/skills --skill stack-maximizer
-npx skills add eclecticv/skills          # pick from the list
+npx skills add And-or-Labs/skills --skill stack-maximizer
+npx skills add And-or-Labs/skills          # pick from the list
 ```
 
 ## Layout

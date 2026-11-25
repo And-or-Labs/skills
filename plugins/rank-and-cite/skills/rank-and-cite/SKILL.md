@@ -6,7 +6,7 @@ compatibility: Python 3.9+ (stdlib only). Needs web search and page fetch. Best 
 metadata:
   author: And/or Labs
   version: "0.1.0"
-  repository: https://github.com/eclecticv/skills
+  repository: https://github.com/And-or-Labs/skills
 ---
 
 # Rank and Cite
